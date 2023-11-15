@@ -1,4 +1,4 @@
-h1> Hi I'm Léa 👋 </h1>
+<h1> Hi I'm Léa 👋 </h1>
 <h2> I'm studying Computer Science at Epita in Paris 🇫🇷</h2>
 <h3>Languages:</h3>
  <p align="left">  
