@@ -13,4 +13,4 @@
  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" alt="jetbrains" width="" height="40"/>
 
 <h4> What I am listening to 🎵</h4>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=r7tvabs4kzu9rz8seo96ayfid&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+...
