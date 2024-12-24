@@ -13,3 +13,6 @@
  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" alt="jetbrains" width="" height="40"/>
 
 <h4>What I am listening to 🎵</h4>
+<p align="left">
+  <img width="320" height="445" src="https://spotify-github-profile.kittinanx.com/api/view?uid=r7tvabs4kzu9rz8seo96ayfid&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
+</p>
