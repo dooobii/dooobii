@@ -12,7 +12,5 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/2044px-Vimlogo.svg.png" alt="vim" width="" height="40"/>
  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" alt="jetbrains" width="" height="40"/>
 
-<h4> What I am listening to 🎵</h4>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=r7tvabs4kzu9rz8seo96ayfid&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=0e6d49&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
-[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=r7tvabs4kzu9rz8seo96ayfid&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=0e6d49&bar_color_cover=true)]]
+<h4>What I am listening to 🎵</h4>
+![What I'm listening to](https://spotify-github-profile.kittinanx.com/api/view?uid=r7tvabs4kzu9rz8seo96ayfid&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=0e6d49&bar_color_cover=true)
